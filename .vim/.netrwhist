@@ -1,5 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/usr'
-let g:netrw_dirhist_2='/Users/eric/Documents/2016Winter/EECS598/Assignments/HW1/source'
-let g:netrw_dirhist_3='/Users/eric/Documents/mtsa-dishes-translator'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/eric/temp/source'
+let g:netrw_dirhist_2='/Users/eric/temp'
+let g:netrw_dirhist_3='/Users/eric/Documents/Fusion-Network/models'
+let g:netrw_dirhist_4='/Users/eric/Documents/Fusion-Network/utils'
+let g:netrw_dirhist_5='/Users/eric/Documents/Fusion-Network/.git'
+let g:netrw_dirhist_6='/Users/eric/Documents/Fusion-Network/.git/logs'
+let g:netrw_dirhist_7='/Users/eric/Documents/2017Fall/EECS598/Assignment/EECS598/emitter'
+let g:netrw_dirhist_8='/Users/eric/.ssh'
